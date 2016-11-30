@@ -1,1 +1,2 @@
 # myredisshiro111
+自己学习练习redis和shiro的负载均衡，实现session共享和cache共享
